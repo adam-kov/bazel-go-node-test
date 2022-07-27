@@ -7,3 +7,6 @@ bazel-testlogs
 
 # Node
 node_modules
+
+# IDE
+.vscode

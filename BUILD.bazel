@@ -5,3 +5,13 @@ gazelle(
 	name = "gazelle",
 	command = "update",
 )
+
+gazelle(
+	name = "gazelle-fix",
+	command = "fix",
+)
+
+gazelle(
+	name = "gazelle-repo",
+	command = "update-repos",
+)
