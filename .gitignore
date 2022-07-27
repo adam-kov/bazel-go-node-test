@@ -1,0 +1,9 @@
+# Bazel
+bazel-bazel-go-node-test
+bazel-bazel-test
+bazel-bin
+bazel-out
+bazel-testlogs
+
+# Node
+node_modules
