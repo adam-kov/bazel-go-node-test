@@ -1,4 +1,4 @@
-package core_service
+package main
 
 import (
 	"fmt"
